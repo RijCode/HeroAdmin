@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/heroadmin/static/css/main.26128113.css",
+    "main.js": "/heroadmin/static/js/main.9a4f92e8.js",
+    "static/js/453.a83151bf.chunk.js": "/heroadmin/static/js/453.a83151bf.chunk.js",
+    "index.html": "/heroadmin/index.html",
+    "main.26128113.css.map": "/heroadmin/static/css/main.26128113.css.map",
+    "main.9a4f92e8.js.map": "/heroadmin/static/js/main.9a4f92e8.js.map",
+    "453.a83151bf.chunk.js.map": "/heroadmin/static/js/453.a83151bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26128113.css",
+    "static/js/main.9a4f92e8.js"
+  ]
+}
